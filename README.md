@@ -20,6 +20,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/web-dev-imran/web-dev-imran/output/snake.svg" alt="Snake animation" />
-
 ###
