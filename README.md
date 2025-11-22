@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! I'm Imran Hossain, a passionate WordPress & Elementor Developer from Bangladesh.</h2>
+<h2 align="left">Hi 👋! I'm Imran Hossain, a passionate WordPress & Elementor Developer.</h2>
+
+###
+
+<div align="left">
+  <ul dir="auto">
+    <li>Figma to WordPress</li>
+    <li>Custom WordPress Theme Development (From scratch)</li>
+    <li>PHP for WordPress Theme Development</li>
+    <li>Tailwind-based responsive frontend architecture</li>
+    <li>Elementor Custom UI Design</li>
+    <li>Speed Optimization </li>
+  </ul>
+</div>
 
 ###
 
