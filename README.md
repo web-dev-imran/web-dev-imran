@@ -1,4 +1,28 @@
-<h2 align="left">Hi 👋! I'm Imran Hossain, a passionate WordPress & Elementor Developer.</h2>
+<h2 align="left">Hi 👋! I'm Imran Hossain</h2>
+
+###
+
+<h3 align="left">
+    As a WordPress developer who focuses on building fast, responsive, and SEO-friendly websites that help businesses grow online.
+</h3>
+<hr></hr>
+<p align="left">
+
+Over the past few years, I’ve worked with small businesses and entrepreneurs to create custom websites using Elementor Pro, WooCommerce, and clean WordPress coding practices. My goal is always to make websites that look professional, load fast, and perform well in search results.
+
+
+I also design layouts in Figma and convert them into fully functional, user-friendly WordPress sites that match each client’s unique brand.
+
+Currently based in Bangladesh, I work remotely with clients from the USA, UK, and Australia, helping businesses build high-performing, SEO-optimized, and visually stunning WordPress websites.
+
+If you’re looking for someone who can handle your project from design to deployment — let’s connect and discuss your goals.
+</p>
+
+<ul>
+    <li>Portfolio: <a href="https://webdevrun.com">https://webdevrun.com</a></li>
+    <li>Email: imran@webdevrun.com | iimrancr7@gmail.com</li>
+    <li>WhatsApp: +8801737920520</li>
+</ul>
 
 ###
 
